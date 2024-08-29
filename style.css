@@ -1,0 +1,30 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+  
+  color: purple; 
+  text-align: center; 
+}
+
+ul {
+    font-size: 30px;
+
+}
+
+.ingredients {
+    font-size: 16px;
+    background-color: grey;
+    color: white;
+}
+
+img {
+    height: auto
+}
+
+.pea {
+    color: green;
+}
+.carrot {
+    color: orangered;
+}
