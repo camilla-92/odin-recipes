@@ -1,15 +1,35 @@
 *{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-h1 {
+.titlehead {
   
   color: purple; 
-  text-align: center; 
+  text-align: center;
+  background-color: grey;
+  margin:16px;
+
+
 }
 
-ul {
-    font-size: 30px;
+.recipecard {
+    border-color: black;
+    border-style: dashed;
+    width: 400px;
+    margin: 12px auto;
+    padding: 10px;
 
+}
+.recipes {
+    font-size: 25px;
+    text-align: center;
+    background-color: aliceblue;
+    width: 300px;
+    margin: 0 auto;
+    padding: 8px;   
+
+}
+h1 {
+    text-align: center;
 }
 
 .ingredients {
